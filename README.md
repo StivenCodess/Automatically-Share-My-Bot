@@ -18,6 +18,8 @@ CONTACT_ID = YOUR CONTACT ID
 `
 The contact id is the complete number and the last one contains __@c.us__
 
+- Finally you have to use the `npm start` command if it is the first time you use it you have to scan the __QR code__ that it will give you in console.
+
 
 ### Requirements 🔧
 - [**NODE.JS**](https://nodejs.org/es)
